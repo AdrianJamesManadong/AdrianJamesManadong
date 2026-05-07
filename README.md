@@ -1,8 +1,13 @@
-# Hi, I'm Adrian James D. Manadong 👋
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no" width="220" style="border-radius:50%;" alt="Adrian James D. Manadong"/>
+</p>
+
+<h1 align="center">Hi, I'm Adrian James D. Manadong 👋</h1>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no" width="200" alt="Adrian James D. Manadong"/>
+  <b>BS Information Technology Student | Web Development | Database Management</b>
 </p>
+
 
 ## About Me
 I am **Adrian James D. Manadong**, with knowledge in **database management** and **web development**. I enjoy exploring technology, building practical solutions, and continuously improving my skills in programming, design, and data systems.
