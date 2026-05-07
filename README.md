@@ -43,7 +43,7 @@ I am **Adrian James D. Manadong**, an aspiring IT professional with strong inter
 `Java` `JavaScript` `Python` `C++` `C` `PHP` `SQL`
 
 ###  Tools & Platforms  
-`Lucidchart` `Visual Studio Code` `IntelliJ Community Edition` `PyCharm Community Edition` `Eclipse` `MS-DOS` `Dev C++`
+`Lucidchart` `Visual Studio Code` `IntelliJ Community Edition` `PyCharm Community Edition` `Eclipse` `MS-DOS` `Dev C++` `XAMPP` `Laragon`
 
 ---
 
