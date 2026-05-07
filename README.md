@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no" width="220" height="220" style="border-radius:50%; object-fit:cover; border:5px solid #0A66C2;" alt="Adrian James D. Manadong"/>
-
 # Adrian James D. Manadong  
 ### 💻 BS Information Technology Student | 🌐 Web Development | 🗄️ Database Management  
 
