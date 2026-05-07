@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no" width="220" style="border-radius:50%;" alt="Adrian James D. Manadong"/>
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no"
+       width="220"
+       height="220"
+       style="border-radius:50%; object-fit:cover; border:4px solid white;"
+       alt="Adrian James D. Manadong"/>
 </p>
 
 <h1 align="center">Hi, I'm Adrian James D. Manadong 👋</h1>
