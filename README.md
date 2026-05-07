@@ -1,67 +1,66 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no"
-       width="220"
-       height="220"
-       style="border-radius:50%; object-fit:cover; border:4px solid white;"
-       alt="Adrian James D. Manadong"/>
+<div align="center">
+
+<img src="https://lh3.googleusercontent.com/a/ACg8ocLIOT76kSJ-cNb6d495En4_2PuFGuO3lQP7Wwui_rPwlnLS_1S9=s360-c-no" width="220" height="220" style="border-radius:50%; object-fit:cover; border:5px solid #0A66C2;" alt="Adrian James D. Manadong"/>
+
+# Adrian James D. Manadong  
+### 💻 BS Information Technology Student | 🌐 Web Development | 🗄️ Database Management  
+
+<p>
+  <img src="https://img.shields.io/badge/Focused-Web%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-Database%20Management-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Student-orange?style=for-the-badge"/>
 </p>
 
-<h1 align="center">Hi, I'm Adrian James D. Manadong 👋</h1>
-
-<p align="center">
-  <b>BS Information Technology Student | Web Development | Database Management</b>
-</p>
-
-
-## About Me
-I am **Adrian James D. Manadong**, with knowledge in **database management** and **web development**. I enjoy exploring technology, building practical solutions, and continuously improving my skills in programming, design, and data systems.
+</div>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me  
+I am **Adrian James D. Manadong**, an aspiring IT professional with strong interests in **database management**, **web development**, and **UI/UX design**. I enjoy transforming ideas into practical digital solutions while continuously improving my technical and creative abilities.
+
+---
+
+## 🎓 Education  
 **Bachelor of Science in Information Technology**  
-**New Era University**  
-**2024 - Present**
+🏫 **New Era University**  
+📅 **2024 - Present**
 
 ---
 
-## 📜 Certifications
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e8b63320de874030a9bd2b2717344691)
-- [Data Analytics with AI](https://www.sololearn.com/certificates/CC-RFVD8RMQ)
-- [Web Design High Level](https://www.mindluster.com/student/certificate/358d4e3b)
-- [UX Design Fundamentals](https://www.mindluster.com/student/certificate/a4ace491)
-- [Web Design Basics](https://www.mindluster.com/student/certificate/03a208ef)
-- [Web Design UI/UX Fundamentals](https://www.mindluster.com/student/certificate/099df36c)
-- [Web Design Techniques for Beginner](https://www.mindluster.com/student/certificate/1b5f3638)
-- [UX Design for Web Developers](https://www.mindluster.com/student/certificate/06836ec9)
+## 📜 Certifications  
+🏆 [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e8b63320de874030a9bd2b2717344691)  
+🏆 [Data Analytics with AI](https://www.sololearn.com/certificates/CC-RFVD8RMQ)  
+🏆 [Web Design High Level](https://www.mindluster.com/student/certificate/358d4e3b)  
+🏆 [UX Design Fundamentals](https://www.mindluster.com/student/certificate/a4ace491)  
+🏆 [Web Design Basics](https://www.mindluster.com/student/certificate/03a208ef)  
+🏆 [Web Design UI/UX Fundamentals](https://www.mindluster.com/student/certificate/099df36c)  
+🏆 [Web Design Techniques for Beginner](https://www.mindluster.com/student/certificate/1b5f3638)  
+🏆 [UX Design for Web Developers](https://www.mindluster.com/student/certificate/06836ec9)
 
 ---
 
-## 💻 Skill Sets
+## 💻 Technical Skills  
 
-### Programming
-- Java
-- JavaScript
-- Python
-- C++
-- C
-- PHP
-- SQL
+### 👨‍💻 Programming Languages  
+`Java` `JavaScript` `Python` `C++` `C` `PHP` `SQL`
+
+### 🛠️ Tools & Platforms  
+`Lucidchart` `Visual Studio Code` `IntelliJ Community Edition` `PyCharm Community Edition` `Eclipse` `MS-DOS` `Dev C++`
 
 ---
 
-## 🛠️ Tools
-- Lucidchart
-- Visual Studio Code
-- IntelliJ Community Edition
-- PyCharm Community Edition
-- Eclipse
-- MS-DOS
-- Dev C++
+## 📈 Career Goal  
+To become a skilled **Full-Stack Developer** and **Database Specialist**, building efficient, user-friendly, and impactful digital systems.
 
 ---
 
-## 📫 Reach Me
-- Email: adrianjames082506.gmail.com
+## 📫 Contact Me  
+📧 **Email:** adrianjames082506.gmail.com  
 
+---
 
+<div align="center">
+
+### 🌟 “Building technology with purpose, passion, and precision.”
+
+</div>
