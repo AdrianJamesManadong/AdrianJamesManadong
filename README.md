@@ -27,12 +27,19 @@ I am **Adrian James D. Manadong**, an aspiring IT professional with strong inter
 
 ##  Certifications  
  [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e8b63320de874030a9bd2b2717344691)  
+ 
  [Data Analytics with AI](https://www.sololearn.com/certificates/CC-RFVD8RMQ)  
+ 
  [Web Design High Level](https://www.mindluster.com/student/certificate/358d4e3b)  
+ 
  [UX Design Fundamentals](https://www.mindluster.com/student/certificate/a4ace491)  
+ 
  [Web Design Basics](https://www.mindluster.com/student/certificate/03a208ef)  
+ 
  [Web Design UI/UX Fundamentals](https://www.mindluster.com/student/certificate/099df36c)  
+ 
  [Web Design Techniques for Beginner](https://www.mindluster.com/student/certificate/1b5f3638)  
+ 
  [UX Design for Web Developers](https://www.mindluster.com/student/certificate/06836ec9)
 
 ---
